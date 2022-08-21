@@ -28,7 +28,7 @@ function Homepage3() {
         <Element name="section-about">
           <About />
         </Element>
-        <Element name="section-about">
+        <Element name="section-skills">
           <Skills />
         </Element>
         <Element name="section-services">

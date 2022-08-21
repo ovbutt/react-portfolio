@@ -26,7 +26,8 @@ function Header3({ light, logoSource, bootstrapNav }) {
     >
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-dark">
-          <Logo logoSource={logoSource} bootstrapNav={bootstrapNav} />
+          {/* <Logo logoSource={logoSource} bootstrapNav={bootstrapNav} /> */}
+          <label className="p-0" style={{ fontWeight: 'bold', fontSize: 32 }} >Ovais</label>
           <button
             aria-controls="navbarNavDropdown"
             aria-expanded="false"
@@ -43,7 +44,7 @@ function Header3({ light, logoSource, bootstrapNav }) {
             className={
               toggleNavbar
                 ? "collapse navbar-collapse show"
-                : "collapse navbar-collapse"
+                : "collapse navbar-collapse flex-column-reverse"
             }
             id="navbarNavDropdown"
           >
@@ -70,6 +71,18 @@ function Header3({ light, logoSource, bootstrapNav }) {
                   duration={500}
                 >
                   About
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link
+                  activeClass="active"
+                  className="nav-link"
+                  to="section-skills"
+                  spy={true}
+                  smooth={true}
+                  duration={500}
+                >
+                  Skills
                 </Link>
               </li>
               <li className="nav-item">
