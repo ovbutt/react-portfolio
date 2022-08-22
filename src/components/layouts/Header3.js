@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Link } from "react-scroll";
-import Logo from "../elements/Logo";
 
 function Header3({ light, logoSource, bootstrapNav }) {
   const [toggleNavbar, setToggleNavbar] = useState(false);

@@ -26,7 +26,7 @@ const progressData1 = [
 		id: 4,
 		title: "GIT",
 		percantage: 91,
-		progressColor: "##44D7B6",
+		progressColor: "#44D7B6",
 	},
 ];
 
