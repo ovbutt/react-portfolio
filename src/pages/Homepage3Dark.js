@@ -43,9 +43,9 @@ function Homepage3() {
         {/* <Element name="section-pricing">
           <Pricing />
         </Element> */}
-        <Element name="section-testimoninal">
+        {/* <Element name="section-testimoninal">
           <Testimonials />
-        </Element>
+        </Element> */}
         <Element name="section-brandlogos">
           <BrandlogosDark />
         </Element>
