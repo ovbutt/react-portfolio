@@ -25,9 +25,9 @@ const servicesData = [
   {
     id: 3,
     icon: "images/service-3.svg",
-    title: "DevOps",
+    title: "Consultancy",
     content:
-      "I know how to manage deployments with minimum cost using AWS, Google cloud and Azure.",
+      "I can open your vision on the product development and guide you on how to hit on more with spending less.",
     color: "#F97B8B",
     contentColor: "dark",
   },

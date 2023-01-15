@@ -27,7 +27,7 @@ function Herosection(props) {
           <img src="images/avatar-1.svg" alt="Bolby" className="mb-4" />
 
           <h1 className="mb-1">Ovais Butt</h1>
-          <h5 className="mb-4" >Software Engineer</h5>
+          <h5 className="mb-4" > Software Engineer, CEO/Founder @<a href="https://hashnaut.com/" target={"_blank"} >Hashnaut</a> </h5>
           <p>
             I develop{" "}
             <Typed

@@ -26,8 +26,8 @@ const progressData = [
   },
   {
     id: 3,
-    title: "DevOps",
-    percantage: 70,
+    title: "Consultation",
+    percantage: 81,
     progressColor: "#6C6CE5",
   },
 ];
@@ -36,25 +36,25 @@ const counterData = [
   {
     id: 1,
     title: "Projects completed",
-    count: 198,
+    count: 78,
     icon: "icon-fire",
   },
   {
     id: 2,
     title: "Cup of coffee",
-    count: 5670,
+    count: 564,
     icon: "icon-cup",
   },
   {
     id: 3,
     title: "Satisfied clients",
-    count: 427,
+    count: 25,
     icon: "icon-people",
   },
   {
     id: 4,
-    title: "Nominees winner",
-    count: 35,
+    title: "Successful Consultancy",
+    count: 12,
     icon: "icon-badge",
   },
 ];

@@ -46,13 +46,13 @@ const progressData2 = [
 	{
 		id: 3,
 		title: "MongoDB",
-		percantage: 70,
+		percantage: 77,
 		progressColor: "#6C6CE5",
 	},
 	{
 		id: 4,
 		title: "SQL",
-		percantage: 70,
+		percantage: 79,
 		progressColor: "#44D7B6",
 	},
 ];
@@ -74,13 +74,13 @@ const progressData3 = [
 	{
 		id: 3,
 		title: "AWS",
-		percantage: 70,
+		percantage: 74,
 		progressColor: "#6C6CE5",
 	},
 	{
 		id: 4,
-		title: "ServerLess",
-		percantage: 70,
+		title: "Consultation",
+		percantage: 89,
 		progressColor: "#44D7B6",
 	},
 

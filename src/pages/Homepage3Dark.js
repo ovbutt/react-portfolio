@@ -37,9 +37,9 @@ function Homepage3() {
         <Element name="section-experiences">
           <Experiences />
         </Element>
-        <Element name="section-works">
+        {/* <Element name="section-works">
           <Works />
-        </Element>
+        </Element> */}
         {/* <Element name="section-pricing">
           <Pricing />
         </Element> */}
@@ -49,9 +49,9 @@ function Homepage3() {
         <Element name="section-brandlogos">
           <BrandlogosDark />
         </Element>
-        <Element name="section-blogs">
+        {/* <Element name="section-blogs">
           <Blogs />
-        </Element>
+        </Element> */}
         <Element name="section-contact">
           <Contact />
         </Element>
